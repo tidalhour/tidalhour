@@ -5,5 +5,5 @@
 <p align=center>There's nothing much here yet, so I'll spare you the trouble of reading all of this.</p>
 <br>
 <p align=center>You can go check on my other stuff. For now, my website is made on a web builder, but I will make an HTML file sooner.</p>
-<p align=center><a href="https://tidalhour.carrd.co/" id="">my portfolio</a>&nbsp;&nbsp;&nbsp;<a href="https://monkeytype.com/profile/tidalhour">monkeytype</a></p>
+<p align=center><a href="https://tidalhour.carrd.co/" id="">my portfolio</a>&nbsp;&nbsp;&nbsp;<a href="https://monkeytype.com/profile/tidalhour">monkeytype</a>&nbsp;&nbsp;&nbsp;<a href="https://music.youtube.com/playlist?list=PLqMGdgClgLHX73WlPcYtqsFfbwA6ICloB&si=geyKtDUp3hqEeA_9">my coding playlist</a></p>
 <p align=center><img src="https://media.tenor.com/Gav8AArqfnIAAAAi/blahaj-bl%C3%A5haj.gif" width=auto height=90px></p>
